@@ -1,4 +1,4 @@
-rev_id	comment	year	logged_in	ns	sample	split
+review_id	comment	year	logged_in	ns	sample	split
 527004.0	NEWLINE_TOKENNEWLINE_TOKENNEWLINE_TOKENNEWLINE_TOKENIs something like Managing_Urban_America going to be a problem?  16:52 Dec 20, 2002 (UTC)	2002	True	user	random	test
 603474.0	`:Here I cannot answer your questions.  I did not write the above, it was in the original article, but towards the bottom.  Given the organization of the article, such as it is, I thought this kind of information belonged earlier, so I moved it up.  I do recall biologists using the word ``locus`` when refering to alleles, so I didn't question the choice of words.  But, as I say, I did not write this.NEWLINE_TOKENNEWLINE_TOKEN`	2003	True	article	random	train
 808576.0	NEWLINE_TOKENNEWLINE_TOKENIn fact, I've just done it for you. 	2003	True	user	random	dev
